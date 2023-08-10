@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @legendarydrew (also known as SilentMode).
+- 👋 Hi, I’m @legendarydrew.
 - 👀 I’m interested in art, lo-fi music, general travel, LEGO and fine dining.
-- 🌱 I’m currently learning about cryptocurrencies and investments.
+- 🌱 I’m currently (and reluctantly) learning React.
 - 💞️ I’m looking to collaborate on small, interesting, creative and financially beneficial projects.
 - 📫 How to reach me: @silentmodetv on all good social networks.
 
